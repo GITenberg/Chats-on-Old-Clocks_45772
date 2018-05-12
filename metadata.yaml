@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37297'
     url: http://www.gutenberg.org/2009/agents/37297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45772#Chats-on-Old-Clocks
 gutenberg_issued: '2014-05-26'
 gutenberg_type: Text
 identifiers:
