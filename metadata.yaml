@@ -1,0 +1,26 @@
+_repo: Chats-on-Old-Clocks_45772
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45772-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hayden, Arthur
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '37297'
+    url: http://www.gutenberg.org/2009/agents/37297
+description: ''
+gutenberg_issued: '2014-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clocks and watches'
+- !lcc 'NK'
+title: Chats on Old Clocks
+url: http://www.gutenberg.org/ebooks/45772
